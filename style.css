@@ -2,6 +2,8 @@ body {
   font-family: "Helvetica";
   background-size: 100%;
   background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-color: #e8f0f9;
   color: #24292f;
   display: flex;
   flex-direction: column;
